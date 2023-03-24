@@ -1,0 +1,71 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');*/
+
+/*body {*/
+/*    font-family: Arial, sans-serif;*/
+/*    margin: 0;*/
+/*    background-color: #e5e5e5;*/
+/*}*/
+
+/*#header {*/
+/*    font-family: 'Alkatra', cursive;*/
+/*    background-color: #383838;*/
+/*    color: #fff;*/
+/*    padding-top: 5px;*/
+/*    padding-bottom: 5px;*/
+/*    text-align: center;*/
+/*    font-size: 30px;*/
+/*}*/
+
+/*#search-form {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    margin: 20px;*/
+/*}*/
+
+/*#search-input {*/
+/*    padding: 10px;*/
+/*    font-size: 16px;*/
+/*    border-radius: 5px;*/
+/*    border: none;*/
+/*    margin-right: 10px;*/
+/*}*/
+
+/*#search-button {*/
+/*    padding: 10px 20px;*/
+/*    font-size: 16px;*/
+/*    border-radius: 5px;*/
+/*    border: none;*/
+/*    background-color: #333;*/
+/*    color: #fff;*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*#movies-container {*/
+/*    display: flex;*/
+/*    flex-wrap: wrap;*/
+/*    justify-content: center;*/
+/*    margin: 20px;*/
+/*}*/
+
+/*.movie {*/
+/*    background-color: #fff;*/
+/*    border-radius: 5px;*/
+/*    box-shadow: 0 3px 6px rgb(56, 56, 56);*/
+/*    margin: 10px;*/
+/*    padding: 20px;*/
+/*    text-align: center;*/
+/*    width: 300px;*/
+/*}*/
+
+/*.movie img {*/
+/*    max-width: 100%;*/
+/*}*/
+
+/*.movie h2 {*/
+/*    margin-top: 0;*/
+/*}*/
+
+/*.movie p {*/
+/*    text-align: justify;*/
+/*}*/
